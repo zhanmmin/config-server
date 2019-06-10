@@ -1,4 +1,3 @@
-profile=provider-1.0
 server:
   port: 8081
 eureka:
